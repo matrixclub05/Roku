@@ -1,0 +1,11 @@
+title=Facebook video
+subtitle=Facebook video player example
+major_version=1
+minor_version=0
+build_version=20150806140052
+mm_icon_focus_hd=pkg:/images/fb_focus_hd.png
+mm_icon_side_hd=pkg:/images/fb_side_HD.png
+mm_icon_focus_sd=pkg:/images/fb_focus_sd.png
+mm_icon_side_sd=pkg:/images/fb_side_SD.png
+splash_screen_sd=pkg:/images/fb_SD.png
+splash_screen_hd=pkg:/images/fb_HD.png
